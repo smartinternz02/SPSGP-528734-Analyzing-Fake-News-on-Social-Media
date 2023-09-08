@@ -4,13 +4,13 @@ Domain:AIML
 
 Team deatils:-
 
-  lead-member1: B.Siresha
+  lead-member1: M.ANJALI
   
-      member2: Ch.Vaishnavi
+      member2: M.PRIYANKA
       
-      member3: Ch.Sandeep
+      member3: M.SAI RISHWANTH
       
-      member4: B.Bhavuya Sri
+      member4: M.KAVYA REDDY
       
-College Name-Gudlavaller Engineering College
+College Name-Gudlavalleru Engineering College
 
